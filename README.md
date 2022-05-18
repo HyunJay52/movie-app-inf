@@ -1,4 +1,4 @@
-Sign-in Boiler Project
+Movie application by using Boiler Project
 ====
 **Use MERN Stack to create Boiler Plate of Register/Login/Logout/Auth API**
 
@@ -16,13 +16,6 @@ that is frequently reusable in multiple locations with minimal changes
 
 <br/>
 
-#### The examples of Application 🖥
-
-<img width="300" alt="Screen Shot 2022-05-06 at 4 53 55 PM" src="https://user-images.githubusercontent.com/76993044/167090637-9deceaae-b54f-4016-a6e7-e92df871dda4.png">
-<img width="300" alt="Screen Shot 2022-05-06 at 4 54 50 PM" src="https://user-images.githubusercontent.com/76993044/167090782-88f32eb3-51b8-4979-b764-7ed25e993442.png">
-
-<br/>
-
 ---
 To use this applications,
 1. make dev.js file inside server/config folder
@@ -32,6 +25,6 @@ To use this applications,
 4. "npm install" inside the client directory to download Front-end Dependencies
 
 ---
-_Ref. <a href="https://inf.run/zejw" target="_blank">따라하며 배우는 노드, 리액트 시리즈/John Ann</a>
+_Ref. <a href="https://inf.run/YVZh" target="_blank">따라하며 배우는 노드, 리액트 시리즈/John Ann</a>
 
 

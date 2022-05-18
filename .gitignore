@@ -1,0 +1,9 @@
+### modules
+node_modules
+
+### key
+dev.js
+
+# misc
+.DS_Store
+.metadate
